@@ -3,5 +3,5 @@
     "version": 2,
     "host": "raw.githubusercontent.com",
     "port": 443,
-    "bin": "/electronicbrain1/esp32FOTAnew/fotanew.ino.esp32.bin"
+    "bin": "/electronicbrain1/esp32FOTAnew/fotanew.bin"
 }
