@@ -1,7 +1,7 @@
 {
     "type": "esp32-fota-https",
     "version": 2,
-    "host": "raw.githubusercontent.com",
+    "host": "www.github.com",
     "port": 443,
     "bin": "/electronicbrain1/esp32FOTAnew/fotanew.bin"
 }
