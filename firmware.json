@@ -1,5 +1,5 @@
 {
     "type": "esp32-fota-http",
     "version": 2,
-    "url": "https://raw.githubusercontent.com/electronicbrain1/esp32FOTAnew/main/fw.bin" 
+    "url": "http://raw.githubusercontent.com/electronicbrain1/esp32FOTAnew/main/fw.bin" 
 }
